@@ -1,26 +1,30 @@
+/*
+ * File: 100-print_python_list_info.c
+ * Auth: Gedeon Obae Gekonge
+ */
+
 #include <Python.h>
 
-/*
-includes listobject.h
-VIEW HEADER-> https://github.com/python/cpython/blob/master/Include/listobject.h
-VIEW MANUAL-> https://docs.python.org/3.4/c-api/list.html
-includes object.h
-VIEW HEADER-> https://docs.python.org/3.4/c-api/structures.html)
-VIEW MANUAL-> https://github.com/python/cpython/blob/master/Include/object.h
-*/
-
+/**
+ * print_python_list_info - Prints basic info about Python lists.
+ * @p: A PyObject list.
+ */
 void print_python_list_info(PyObject *p)
 {
-  Py_ssize_t size, alloc, idx;
+	int size, alloc, i;
+	PyObject *obj;
 
-  size = PyList_Size(p);
-  alloc = ((PyListObject *)p)->allocated;
-  printf("[*] Size of the Python List = %ld\n", size);
-  printf("[*] Allocated = %ld\n", alloc);
-  for (idx = 0; idx < size; idx++)
-    {
-      printf("Element %ld: %s\n",
-	     idx,
-	     (PY_TYPE(PyList_GetItem(p, idx)))->tp_name);
-    }
+	size = Py_SIZE(p);
+	alloc = ((PyListObject *)p)->allocated;
+
+	printf("[*] Size of the Python List = %d\n", size);
+	printf("[*] Allocated = %d\n", alloc);
+
+	for (i = 0; i < size; i++)
+	{
+		printf("Element %d: ", i);
+
+		obj = PyList_GetItem(p, i);
+		printf("%s\n", Py_TYPE(obj)->tp_name);
+	}
 }
