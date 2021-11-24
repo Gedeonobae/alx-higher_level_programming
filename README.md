@@ -16,3 +16,8 @@ scripting. The specific list of projects contained follows:
 
 * **Gedeon Obae Gekonge** <[Gedeonobae](https://github.com/Gedeonobae)>
 
+<p align="center">
+  <img src="https://theme.zdassets.com/theme_assets/10239256/f69718478ae7ecaaae43d9f8aefd9638c313b55e.jpg"
+       alt="alx logo"
+  >
+</p>
