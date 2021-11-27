@@ -16,7 +16,7 @@ scripting. The specific list of projects contained follows:
 
 * **Gedeon Obae Gekonge** <[Gedeonobae](https://github.com/Gedeonobae)
 
- For more information, visit
+For more information, visit
 [this link](https://www.alxafrica.com/).
 
 <p align="center">
