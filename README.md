@@ -4,7 +4,7 @@ This repository contains programs written for the higher-level programming
 track at ALX School. In these projects, which began occurring in month
 four of the second sprint curriculum, I will learn Python, MySQL and JavaScript.
 Simultaneously, I will continue to reinforce and expand my skills in C and shell
-scripting. The specific list of projects contained follows:
+scripting. The specific list of projects contained follows...:
 
 
 * [0x00. Python - Hello, World](./0x00-python-hello_world)
