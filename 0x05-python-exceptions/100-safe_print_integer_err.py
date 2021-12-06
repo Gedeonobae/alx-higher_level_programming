@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 # 100-safe_print_integer_err.py
 # Gedeon Obae Gekonge <gideonobae@gmail.com>
