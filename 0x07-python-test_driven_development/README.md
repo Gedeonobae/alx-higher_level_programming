@@ -92,6 +92,7 @@ Prototypes for functions written in this project:
   * If either of `m_a` or `m_b` is empty (ie. `== []` or `== [[]]`), a
   `ValueError` is raised with the message `m_a can't be empty` or `m_b can't
   be empty`.
+
   * If either of `m_a` or `m_b` is not a list, a `TypeError` is raised with
   the message `m_a must be a list` or `m_b` must be a list.
   * If either of `m_a` or `m_b` is not a list of lists, a `TypeError` is raised
