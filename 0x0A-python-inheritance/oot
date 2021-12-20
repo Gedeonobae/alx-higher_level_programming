@@ -1,0 +1,15 @@
+When ordering new videotapes from a supplier, the store manager creates a purchase order, files the date, the supplier's name, address and enter a list of videotapes to be ordered. The purchase order is added to a permanent list of purchases. When one or more videotapes are received from a supplier, a clerk locates the original purchase order and makes a record of each tape that was received. A record of videotapes is then added to the store's inventory. When all tapes listed on a particular purchase order have been received the manager sends a payment to the supplier and the purchase order as given  a completion date. You are required to;
+
+a). Specify operations.
+
+b). Consider how an object of the class is constructed, copied and destroyed.
+
+c). Define thee minimal set of operations required by a concept of a class is representing.
+
+d). consider the operations could be added for notational convenience  and include only a few really important ones.
+
+e). Consider which operations are to be virtual.
+
+f). Consider what commonality  of naming and functionalities can be achieved across all the class of the component.
+
+
