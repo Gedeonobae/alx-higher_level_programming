@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-add_attribute.py
-# Amos Mwongela Gabriel <amosmwongelah@gmail>
+# Gedeon Obae Gekonge <gideonobae@gmail>
 """Defines a function that adds attributes to objects."""
 
 
