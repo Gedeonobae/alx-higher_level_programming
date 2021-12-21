@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 5-base_geometry.py
-# Amos Mwongela Gabriel <amosmwongelah@gmail.com>
+# Gedeon Obae Gekonge <gideonobae@gmail.com>
 """Defines an empty class BaseGeometry."""
 
 
