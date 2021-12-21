@@ -1,13 +1,11 @@
 #!/usr/bin/python3
-# 1-number_of_lines.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
-"""Defines a text file line-counting function."""
+"""
+Module 3-write_file
+Contains function that writes to text file and returns num chars written
+"""
 
 
-def number_of_lines(filename=""):
-    """Return the number of lines in a text file."""
-    lines = 0
-    with open(filename) as f:
-        for line in f:
-            lines += 1
-    return lines
+def write_file(filename="", text=""):
+    """writes to text file and returns num chars written"""
+    with open(filename, mode="w", encoding="utf-8") as f:
+        return(f.write(text))
