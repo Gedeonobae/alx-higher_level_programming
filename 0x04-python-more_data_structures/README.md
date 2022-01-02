@@ -9,6 +9,7 @@ with the `lambda`, `map`, `filter`, and `reduce` methods.
 
 ## Function Prototypes :floppy_disk:
 
+
 Prototypes for functions written in this project:
 
 | File                           | Prototype                                                                                                 |
