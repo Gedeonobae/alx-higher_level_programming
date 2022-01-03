@@ -15,6 +15,7 @@ how to use the special `__str__` and `__repr__` methods.
 
 * **1. Real definition of a rectangle**
   * [1-rectangle.py](./1-rectangle.py): Python class that defines a rectangle. Builds on
+
   [0-rectangle.py](./0-rectangle.py) with:
     * Private instance attribute `width`.
     * Property getter `def width(self):` to get `width`.
