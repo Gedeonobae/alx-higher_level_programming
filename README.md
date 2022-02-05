@@ -27,6 +27,7 @@ scripting. The specific list of projects contained follows...:
 For more information, visit
 [this link](https://www.alxafrica.com/).
 
+
 <p align="center">
   <img src="https://theme.zdassets.com/theme_assets/10239256/f69718478ae7ecaaae43d9f8aefd9638c313b55e.jpg"
        alt="alx logo"
