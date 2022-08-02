@@ -40,7 +40,7 @@ scripting. The specific list of projects contained follows...
 
 * [0x15. Javascript - Web JQuery](./0x15-javascript-web_jquery)
 
-
+<br>
 ## Author :black_nib:
 * **Gedeon Obae Gekonge** <[Gedeonobae](https://github.com/Gedeonobae)
 For more information, visit
