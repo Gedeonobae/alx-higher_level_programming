@@ -11,6 +11,7 @@ and variables, and indexing and slicing strings in Python.
 
 Prototypes for functions written in this project:
 
+
 | File                       | Prototype                             |
 | -------------------------- | ------------------------------------- |
 | `10-check_cycle.c`         | `int check_cycle(listint_t *list);`   |
