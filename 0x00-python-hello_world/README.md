@@ -29,10 +29,12 @@ Prototypes for functions written in this project:
 
 
 * **2. Hello, print**
+
   * [2-print.py](./2-print.py): Python script that prints exactly `"Programming is
   like building a multilingual puzzle`, followed by a new line using the function `print`.
 
 * **3. Print integer**
+
   * [3-print_number.py](./3-print_number.py): Python script that prints the integer stored
   in the variable `number`, followed by `Battery street`, followed by a new line.
   * Completion of [this source code](https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py).
@@ -43,6 +45,7 @@ Prototypes for functions written in this project:
   * Completion of [this source code](https://github.com/holbertonschool/0x00.py/blob/master/4-print_float.py).
 
 * **5. Print string**
+
   * [5-print_string.py](./5-print_string.py): Python script that prints a string stored
   in the variable `str` three times, then a new line, then the first nine characters
   contained in `str`, followed by another new line.
