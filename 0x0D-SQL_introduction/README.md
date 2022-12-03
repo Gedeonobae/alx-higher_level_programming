@@ -101,6 +101,7 @@ $ cat 3-list_tables.sql | mysql -h localhost -u root -p mysql
 * **17. Go to UTF8**
   * [100-move_to_utf8.sql](./100-move_to_utf8.sql): MySQL script that converts the `hbtn_0c_0`
   database to UTF8.
+  
 
 * **18. Temperatures #0**
   * [101-avg_temperatures.sql](./101-avg_temperatures.sql): MySQL script that displays the average
